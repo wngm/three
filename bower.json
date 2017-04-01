@@ -1,0 +1,21 @@
+{
+  "name": "three",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "wngzhe"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/wngzhe/three",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "three.js": "^0.84.0"
+  }
+}
